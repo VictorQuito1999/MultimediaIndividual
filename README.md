@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Portafolio Individual de Multimedia</h1>
+<h1 align="center">🎓 Portafolio Trabajos Individuales de Multimedia</h1>
 
 <p align="center">
   <strong>Víctor Manuel Quito Chávez</strong><br/>
@@ -105,19 +105,6 @@ Versión extendida de análisis de texturas usando **descriptores estadísticos*
 - ✅ Exportación del resultado a PNG/JPEG
 
 **Stack:** `Python` · `Tkinter` · `OpenCV` · `NumPy` · `scikit-learn` · `scikit-image` · `Pillow`
-
----
-
-## 🌐 Portafolio Web
-
-El proyecto incluye un **portafolio web interactivo** (`index.html`) que presenta todos los ejercicios en un panel tipo IDE con:
-
-- 💻 Visor de código fuente con **syntax highlighting** (Prism.js)
-- 🔧 Guía de instalación paso a paso por ejercicio
-- 🚀 Demostración en navegador
-- 📥 Descarga directa de los scripts
-
----
 
 ## 🚀 Instalación Rápida
 
