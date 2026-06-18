@@ -34,9 +34,9 @@ MultimediaIndividual/
 │   ├── filtrosuavizado.py
 │   └── README.md
 │
-├── 📁 pratica/                    # Ejercicio extra — Segmentación avanzada GLCM + LBP + KMeans
-│   ├── texture_app.py
-│   └── requirements.txt
+├── 📁 c-Vacalola/                    # Ejercicio extra — Segmentación avanzada GLCM + LBP + KMeans
+│   ├── enlacevacalola.txt
+│   
 │
 ├── 📁 assets/                     # Recursos compartidos (CSS, JS)
 ├── index.html                     # Portafolio web interactivo
