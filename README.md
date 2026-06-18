@@ -86,26 +86,6 @@ K_Gauss =── [ 2  4  2 ]    Gx (Sobel) = [ -2  0  2 ]  Gy = [  0   0   0 ]
 
 **Stack:** `Python` · `Tkinter` · `OpenCV` · `NumPy` · `Pillow`
 
----
-
-### ⚡ Detección de Texturas Avanzada (GLCM + LBP + KMeans)
-**Carpeta:** `pratica/`
-
-Versión extendida de análisis de texturas usando **descriptores estadísticos** y **aprendizaje no supervisado**. A diferencia del ejercicio A (basado en color), este sistema analiza la **estructura espacial** de la imagen.
-
-**Algoritmo:**
-1. **GLCM** (Gray-Level Co-occurrence Matrix) — extrae 5 descriptores: contraste, homogeneidad, energía, correlación y disimilaridad
-2. **LBP** (Local Binary Patterns) — histograma de 18 bins con radio 2
-3. **KMeans Clustering** — agrupa bloques de textura en `K` clases configurables
-
-**Características destacadas:**
-- ✅ Procesamiento en hilo separado con barra de progreso en tiempo real
-- ✅ Tabla de estadísticas por textura (área %, media gris, desviación estándar)
-- ✅ Visualización en 3 modos: Superposición, Segmentación pura, Original
-- ✅ Exportación del resultado a PNG/JPEG
-
-**Stack:** `Python` · `Tkinter` · `OpenCV` · `NumPy` · `scikit-learn` · `scikit-image` · `Pillow`
-
 ## 🚀 Instalación Rápida
 
 ### Ejercicios A y B (dependencias básicas)
